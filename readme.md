@@ -28,4 +28,5 @@
 > This script uses a version control system (such as Git) to track changes and ensure the integrity of the code. Please make sure to follow best practices for version control when making changes to this script.
 > 
 > Contributing
-If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
+> 
+>If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
