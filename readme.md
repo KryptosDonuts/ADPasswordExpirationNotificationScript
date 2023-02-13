@@ -1,4 +1,4 @@
-> Automated Active Directory Password Expiration Email Notification Script
+ Automated Active Directory Password Expiration Email Notification Script
 > 
 > This PowerShell script provides automated email notifications to Active Directory users about their soon-to-expire or recently-expired passwords. It offers full integration with Office 365's SMTP server and the option to use Office 365 credentials for secure email delivery. With flexible threshold settings, the script can be configured to send notifications 10, 5, and 1 day before the password expires, ensuring users are aware of the upcoming password change deadline. This script is a reliable and efficient solution for managing password expiration notifications in Active Directory environments, with built-in version control for added security and efficiency.
 > 
